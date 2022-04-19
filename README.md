@@ -2,7 +2,7 @@
 
 <img src="./eyes-sample.png">
 
-How many does you mouse can take? This little program let you create a bunch of eyes with a simple click on the button 'More Eyes'.
+How many eyes does your mouse can handle? This little program let you create a bunch of eyes with a simple click on the button 'More Eyes'.
 
 # MIT License
 
